@@ -1,0 +1,6 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  mqtt_client: ^10.2.0
+  google_maps_flutter: ^2.6.0
+  provider: ^6.0.5
